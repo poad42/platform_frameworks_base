@@ -93,7 +93,7 @@
 
     </PreferenceScreen>
 
-    <!--
+    
     <Preference
         android:key="color_transform"
         android:title="@string/color_and_appearance"
